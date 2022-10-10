@@ -1,4 +1,6 @@
-import '../styles/globals.css'
+import '../styles/reset.scss';
+import '../styles/global.scss';
+
 import {DevSupport} from "@react-buddy/ide-toolbox";
 import {ComponentPreviews, useInitial} from "../dev";
 
