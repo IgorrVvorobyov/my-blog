@@ -104,6 +104,6 @@ export default {
                     type: 'image',
                 }
             ]
-        }
+        },
     ]
 }
